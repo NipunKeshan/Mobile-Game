@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="Game_titile">Tik Tak Toe</string>
+    <string name="start_button">Start Game</string>
+    <string name="player_01_Score">Player 1 Score : </string>
+    <string name="player_02_Score">Player 2 Score : </string>
+    <string name="aaa">ResetGame</string>
+    <string name="vehicle">ll</string>
+    <string name="toe">O</string>
+    <string name="tik">X</string>
+    <string name="sc1">12</string>
+    <string name="sc2">10</string>
+    <string name="compar">game1</string>
+    <string name="round">Round </string>
+    <string name="xl">Size </string>
+    <string name="profile">profile</string>
+</resources>
